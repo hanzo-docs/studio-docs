@@ -1,4 +1,4 @@
-# studio-docs — AI Assistant Context
+# studio-docs
 
 # Hanzo Studio Documentation
 
